@@ -1,0 +1,1 @@
+This is a UiPath Studio project so try to run it in Studio if you can. UiPath projects sometimes struggle working if you extract them normally from a zip folder, but I have found that using 7Zip usually solves that issue.
